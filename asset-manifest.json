@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8b588f44.css",
+    "main.js": "/static/js/main.8ac2ce05.js",
+    "static/js/787.5c39024c.chunk.js": "/static/js/787.5c39024c.chunk.js",
+    "static/media/ieeeLogo.jpg": "/static/media/ieeeLogo.44a983f5dd34d58412c5.jpg",
+    "index.html": "/index.html",
+    "main.8b588f44.css.map": "/static/css/main.8b588f44.css.map",
+    "main.8ac2ce05.js.map": "/static/js/main.8ac2ce05.js.map",
+    "787.5c39024c.chunk.js.map": "/static/js/787.5c39024c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b588f44.css",
+    "static/js/main.8ac2ce05.js"
+  ]
+}
