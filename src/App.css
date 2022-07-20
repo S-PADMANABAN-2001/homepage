@@ -1,7 +1,5 @@
-.App {
-  text-align: center;
-}
 
+/*
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -35,4 +33,92 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+#text_div {
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  margin: 10px;
 }
+/* #Aboutus {
+  position: absolute;
+  top: 500px;
+  right: 0;
+  left: 250px;
+  bottom: 0;
+  margin: 10px;
+}
+#Aboutus h1{
+  text-align: center;
+  color: #e8d036;
+  font-size: 50px;
+}
+#Aboutus p{
+  text-align: center;
+  color: #0d171b;
+  font-size: 20px;
+  font-weight: 800;
+}
+.abt{
+  width: 80%;
+  background-color: rgba(250, 235, 215, 0.33);
+
+} */
+.center_all {
+  position: absolute;
+  transform: translate(50%, 0%);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+  color: rgb(255, 252, 79);
+  font-size: xx-large;
+}
+/* .center_btn {
+  position: absolute;
+  display: flex;
+  opacity: 0.8;
+  justify-content: space-around;
+  top: 400px;
+  left: 750px;
+  width:70%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-size: xx-large;
+} */
+
+
+/* .btn {
+  background: #d9aa34;
+  background-image: -webkit-linear-gradient(top, #d9aa34, #15425e);
+  background-image: -moz-linear-gradient(top, #d9aa34, #15425e);
+  background-image: -ms-linear-gradient(top, #d9aa34, #15425e);
+  background-image: -o-linear-gradient(top, #d9aa34, #15425e);
+  background-image: linear-gradient(to bottom, #d9aa34, #15425e);
+  -webkit-border-radius: 14;
+  -moz-border-radius: 14;
+  border-radius: 14px;
+  text-shadow: 1px 0px 0px #666666;
+  font-family: Georgia;
+  color: #ffffff;
+  font-size: 31px;
+  padding: 6px 20px 6px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #297eb3;
+  background-image: -webkit-linear-gradient(top, #297eb3, #e8d036);
+  background-image: -moz-linear-gradient(top, #297eb3, #e8d036);
+  background-image: -ms-linear-gradient(top, #297eb3, #e8d036);
+  background-image: -o-linear-gradient(top, #297eb3, #e8d036);
+  background-image: linear-gradient(to bottom, #297eb3, #e8d036);
+  text-decoration: none;
+} */
+
+
